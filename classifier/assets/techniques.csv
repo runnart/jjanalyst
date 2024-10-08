@@ -1,0 +1,77 @@
+﻿Name,Type,Position,Origin
+Closed Guard,Guard,Dominant,BJJ
+Open Guard,Guard,Dominant,BJJ
+Half Guard,Guard,Defensive,BJJ
+Butterfly Guard,Guard,Dominant,BJJ
+Full Mount,Mount,Dominant,BJJ
+S-Mount,Mount,Dominant,BJJ
+Back Mount,Mount,Dominant,BJJ
+Side Control,Control,Dominant,BJJ
+Knee on Belly,Mount,Dominant,BJJ
+North-South Position,Control,Dominant,BJJ
+Armbar,Submissions,Dominant,BJJ
+Triangle Choke,Submissions,Dominant,BJJ
+Rear Naked Choke,Submissions,Dominant,BJJ
+Guillotine Choke,Submissions,Dominant,BJJ
+Kimura,Submissions,Dominant,BJJ
+Omoplata,Submissions,Dominant,BJJ
+Americana,Submissions,Dominant,BJJ
+Keylock,Submissions,Dominant,BJJ
+Straight Armbar,Submissions,Dominant,BJJ
+Heel Hook,Submissions,Dominant,BJJ
+Ankle Lock,Submissions,Dominant,BJJ
+Kneebar,Submissions,Dominant,BJJ
+Toe Hold,Submissions,Dominant,BJJ
+Wrist Lock,Submissions,Dominant,BJJ
+Bow and Arrow Choke,Submissions,Dominant,BJJ
+Ezekiel Choke,Submissions,Dominant,BJJ
+Scissor Sweep,Sweeps,Dominant,BJJ
+Flower Sweep,Sweeps,Dominant,BJJ
+Hip Bump Sweep,Sweeps,Dominant,BJJ
+Hook Sweep,Sweeps,Dominant,BJJ
+Elevator Sweep,Sweeps,Dominant,BJJ
+Balloon Sweep,Sweeps,Dominant,BJJ
+Bridge and Roll,Sweeps,Dominant,BJJ
+X-Guard Sweep,Sweeps,Dominant,BJJ
+De la Riva Sweep,Sweeps,Dominant,BJJ
+Inversion Sweep,Sweeps,Dominant,BJJ
+Bridge and Roll Escape,Escapes,Defensive,BJJ
+Shrimp Escape,Escapes,Defensive,BJJ
+Hip Escape (Granby Roll),Escapes,Defensive,BJJ
+Knee Slide Escape,Escapes,Defensive,BJJ
+Upa (Bridge) Escape,Escapes,Defensive,BJJ
+Single-leg takedown,Takedowns,Dominant,Wrestling
+Double-leg takedown,Takedowns,Dominant,Wrestling
+Osoto Gari,Takedowns,Dominant,Judo
+Uchi Mata,Takedowns,Dominant,Judo
+Harai Goshi,Takedowns,Dominant,Judo
+Judo Throws,Takedowns,Dominant,Judo
+Clinch Work,Takedowns,Dominant,Wrestling
+Transitions from Guard to Mount or Back Mount,Transitions,Dominant,BJJ
+Arm Drag,Miscellaneous,Dominant,Both
+Berimbolo,Miscellaneous,Dominant,BJJ
+Worm Guard,Miscellaneous,Dominant,BJJ
+Lapel Guard Techniques,Miscellaneous,Dominant,BJJ
+Leg Drag Pass,Miscellaneous,Dominant,BJJ
+Osoto Gari,Takedowns,Dominant,Judo
+Uchi Mata,Takedowns,Dominant,Judo
+Harai Goshi,Takedowns,Dominant,Judo
+Sprawl,Takedown Defense,Defensive,Wrestling
+Granby Roll,Escapes,Defensive,Wrestling
+Front Headlock,Control,Dominant,Wrestling
+Crossface,Control,Dominant,Wrestling
+Fireman's Carry,Takedowns,Dominant,Wrestling
+Russian Tie,Control,Dominant,Wrestling
+Double Underhooks,Control,Dominant,Wrestling
+Single-leg Defense,Defensive,Defensive,Wrestling
+Snap Down,Control,Dominant,Wrestling
+Funk Roll,Escapes,Defensive,Wrestling
+Duck Under,Takedowns,Dominant,Wrestling
+Front Headlock Series,Control,Dominant,Wrestling
+Granby Defense,Escapes,Defensive,Wrestling
+High Crotch Takedown,Takedowns,Dominant,Wrestling
+Ankle Pick,Takedowns,Dominant,Wrestling
+Arm Drag (Wrestling),Control,Dominant,Wrestling
+Armbar (Wrestling),Submissions,Dominant,Wrestling
+Tilt Series (Wrestling),Control,Dominant,Wrestling
+Sit Out and Stand Up,Escapes,Defensive,Wrestling
